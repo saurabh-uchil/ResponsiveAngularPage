@@ -30,8 +30,8 @@ To get more help on the Angular CLI use `ng help` or go check out the [Angular C
 
 # Images:
 # Desktop View:
-https://github.com/user-attachments/assets/e97e4f0c-27a4-4dbb-afaf-cecf9a26e901
+![Responsive Angular SPA -Desktop](https://github.com/user-attachments/assets/5762b943-8c0f-4cf1-b96a-a81b052489f8)
 
 # Mobile View:
-https://github.com/user-attachments/assets/b1a81c17-8346-44d2-9025-fa36b5929164
+![Responsive Angular SPA -Mobile](https://github.com/user-attachments/assets/86e9e7c3-17fd-486c-bd99-7a9d9a53ff84)
 
