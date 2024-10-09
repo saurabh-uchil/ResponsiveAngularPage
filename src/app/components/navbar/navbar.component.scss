@@ -1,0 +1,31 @@
+nav{
+    padding: 15px;
+    background: #50a717;
+}
+nav ul li{
+    list-style: none;
+    margin: 10px;
+}
+nav ul li a{
+    text-decoration: none;
+    width: 100%;
+    color: #ffffff;
+    padding: 10px;
+    display: inline-block;
+}
+
+nav ul li a:hover{
+    background: #09c447;
+    border: 2px solid #069134;
+    border-radius: 5px;
+}
+
+@media only screen and (min-width: 769px){
+    nav{
+        height: 70px;
+        padding: 5px;
+    }
+    nav ul{
+        display: flex;
+    }
+}
