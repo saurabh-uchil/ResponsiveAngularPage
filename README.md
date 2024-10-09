@@ -1,6 +1,8 @@
 # MyApp
-
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.7.
+
+# Description:
+A simple responsive web page using Angular. A Single Page Application created by putting together many components.
 
 ## Development server
 
@@ -26,5 +28,3 @@ Run `ng e2e` to execute the end-to-end tests via a platform of your choice. To u
 
 To get more help on the Angular CLI use `ng help` or go check out the [Angular CLI Overview and Command Reference](https://angular.dev/tools/cli) page.
 
-#Description:
-A simple responsive web page using Angular. A Single Page Application created by putting together many components.
